@@ -11,7 +11,7 @@ def crawl() :
     options.add_argument('window-size=1920x1080')
     options.add_argument("disable-gpu")
 
-    driver = webdriver.Chrome("crawl/chromedriver", chrome_options=options)
+    driver = webdriver.Chrome("chromedriver", chrome_options=options)
     driver.get("https://naver.com")
     driver.find_element_by_xpath('//*[@id="query"]').send_keys("화장품")
     driver.find_element_by_xpath('//*[@id="search_btn"]').click()

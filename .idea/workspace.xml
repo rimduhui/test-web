@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ccb26335-0ac0-4956-af7d-0c89cfa1a472" name="Default" comment="" />
+    <list default="true" id="ccb26335-0ac0-4956-af7d-0c89cfa1a472" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/mysite/crawl/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/crawl/views.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +11,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mysite/crawl/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -30,8 +45,8 @@
         <option value="$PROJECT_DIR$/mysite/crawl/urls.py" />
         <option value="$PROJECT_DIR$/mysite/crawl/templates/crawl/index.html" />
         <option value="$PROJECT_DIR$/mysite/.gitignore" />
-        <option value="$PROJECT_DIR$/mysite/crawl/views.py" />
         <option value="$PROJECT_DIR$/mysite/crawl/apps.py" />
+        <option value="$PROJECT_DIR$/mysite/crawl/views.py" />
       </list>
     </option>
   </component>
@@ -156,16 +171,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/crawl/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mysite/mysite/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="779">
@@ -194,6 +199,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/crawl/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
